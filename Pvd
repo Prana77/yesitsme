@@ -1,0 +1,4 @@
+eva@paradise:~$ git clone https://github.com/blackeko/yesitsme/
+eva@paradise:~$ cd yesitsme
+eva@paradise:~$ pip3 install -r requirements.txt
+eva@paradise:~$ python3 yesitsme.py -s SESSION_ID -n NAME -e EMAIL -p PHONE -t TIMEOUT 
